@@ -1,0 +1,14 @@
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\bin\Debug\netstandard2.0\SHXamLab1.deps.json
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\bin\Debug\netstandard2.0\SHXamLab1.dll
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\bin\Debug\netstandard2.0\ref\SHXamLab1.dll
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\bin\Debug\netstandard2.0\SHXamLab1.pdb
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.csprojAssemblyReference.cache
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.AssemblyInfoInputs.cache
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.AssemblyInfo.cs
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.csproj.CoreCompileInputs.cache
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.dll
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\ref\SHXamLab1.dll
+C:\Users\user\projects\xamarin\shxamarinlab1\SHXamLab1\SHXamLab1\obj\Debug\netstandard2.0\SHXamLab1.pdb
